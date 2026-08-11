@@ -34,16 +34,37 @@
 <!-- ==================== 02. SYSTEM IDENTITY ==================== -->
 
 <h2 align="center">
-  <code> // ABOUT_ME </code>
+  <code>// ABOUT_ME</code>
 </h2>
 
 <div align="center">
 
-> `USER_ID:` **Luiz Eduardo Reis**  
-> `ROLE:` **Desenvolvedor Full Stack | Suporte de TI Pleno**  
-> `MISSION:` **Construir soluções simples, eficientes e confiáveis para problemas reais.**  
-> `LOCATION:` **São Paulo • Brasil**  
-> `SYSTEM_STATUS:` **ONLINE**
+<table>
+<tr>
+<td align="right"><code>USER_ID:</code></td>
+<td><b>Luiz Eduardo Reis</b></td>
+</tr>
+
+<tr>
+<td align="right"><code>ROLE:</code></td>
+<td><b>Desenvolvedor Full Stack | Suporte de TI Pleno</b></td>
+</tr>
+
+<tr>
+<td align="right"><code>MISSION:</code></td>
+<td><b>Construir soluções simples, eficientes e confiáveis para problemas reais.</b></td>
+</tr>
+
+<tr>
+<td align="right"><code>LOCATION:</code></td>
+<td><b>São Paulo • Brasil</b></td>
+</tr>
+
+<tr>
+<td align="right"><code>SYSTEM_STATUS:</code></td>
+<td><b>ONLINE</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -443,12 +464,6 @@ Projeto público desenvolvido para demonstrar conhecimentos em desenvolvimento F
 
 <div align="center">
 
-`> requesting telemetry...`
-
-`[OK] GITHUB DATA STREAM CONNECTED`
-
-<br><br>
-
 <!--
 RECOMENDAÇÃO:
 Para máxima estabilidade, gere estes SVGs via GitHub Actions
@@ -475,18 +490,6 @@ os serviços públicos abaixo mantêm o README funcional.
 ---
 
 <!-- ==================== 09. CONTRIBUTION SNAKE ==================== -->
-
-<!--
-SNAKE VIA GITHUB ACTIONS
-
-Configure o Platane/snk para gerar:
-
-output/github-contribution-grid-snake-dark.svg
-
-em uma branch "output".
-
-Depois disso, esta imagem será atualizada automaticamente.
--->
 
 <picture>
   <source
