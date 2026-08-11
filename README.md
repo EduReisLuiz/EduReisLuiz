@@ -15,13 +15,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=8BE9FD&center=true&vCenter=true&width=900&lines=Transformando+problemas+reais+em+software.;Construindo+do+frontend+ao+banco+de+dados.;React+%2B+TypeScript+%2B+Node.js+%2B+PostgreSQL.;Suporte+de+TI+%E2%86%92+Engenharia+de+Software.;Always+learning.+Always+building." alt="Typing SVG"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=EduReisLuiz&label=PROFILE%20SCANS&color=00b8d9&style=for-the-badge" alt="Profile views"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050816" alt="Status Online"/>
+<br>
 
 &nbsp;
 
@@ -100,16 +94,13 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC** e continuo 
 
 <img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwind-css&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/Vite-050816?style=for-the-badge&logo=vite&logoColor=8A2BE2"/>
 
 ### BACKEND
 
 <img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=node.js&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/FastAPI-050816?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/Java-050816?style=for-the-badge&logo=openjdk&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/C-050816?style=for-the-badge&logo=c&logoColor=00E5FF"/>
@@ -138,26 +129,12 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC** e continuo 
   <code> // PROJECT_DATABASE </code>
 </h2>
 
-<div align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/PROFESSIONAL-PRODUCTION-00E5FF?style=for-the-badge&labelColor=050816"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/OPEN_SOURCE-PUBLIC-8A2BE2?style=for-the-badge&labelColor=050816"/>
-
-</div>
-
-<br>
-
 <!-- ========================================================= -->
 <!--              PROFESSIONAL / PRIVATE PROJECTS               -->
 <!-- ========================================================= -->
 
 <h3 align="center">
-  <code>01 // PROFESSIONAL_PROJECTS</code>
+  <code>01 PROFESSIONAL_PROJECTS</code>
 </h3>
 
 <div align="center">
@@ -308,7 +285,7 @@ Detalhes internos, dados, credenciais e código-fonte permanecem protegidos por 
 <!-- ========================================================= -->
 
 <h3 align="center">
-  <code>02 // OPEN_SOURCE_LAB</code>
+  <code>02 OPEN_SOURCE_LAB</code>
 </h3>
 
 <div align="center">
@@ -450,10 +427,6 @@ Projeto público desenvolvido para demonstrar conhecimentos em desenvolvimento F
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=EduReisLuiz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00E5FF"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduReisLuiz&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9"/>
-
 <br><br>
 
 <img width="72%" src="https://streak-stats.demolab.com?user=EduReisLuiz&theme=transparent&hide_border=true&background=050816&stroke=00E5FF&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=667085"/>
@@ -509,12 +482,7 @@ Projeto público desenvolvido para demonstrar conhecimentos em desenvolvimento F
   <img src="https://img.shields.io/badge/GITHUB-FOLLOW-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<br><br>
-CONNECTION STATUS
-
-GitHub........ ONLINE
-LinkedIn...... ONLINE
-Email......... ONLINE
+<br>
 
 > Open to software development opportunities.
 
@@ -546,8 +514,13 @@ Email......... ONLINE
 <!-- ==================== 12. FOOTER ==================== -->
 
 <div align="center">
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,40:00D9FF,75:081A33,100:050816&height=150&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=EduReisLuiz&label=PROFILE%20SCANS&color=00b8d9&style=for-the-badge" alt="Profile views"/>
+
+<br>
+
+<a><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,40:00D9FF,75:081A33,100:050816&height=150&section=footer"/></a>
 
 <sub>
 
