@@ -83,20 +83,6 @@ Minha experiência prática vai além dos estudos: desenvolvo soluções voltada
 Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC** e continuo aprofundando meus conhecimentos em arquitetura, backend, frontend, banco de dados e engenharia de software.
 
 </td>
-<td width="48%" valign="top">
-
-### `> system_info`
-
-NAME........... Luiz Eduardo Reis
-MODE........... Full Stack Development
-CURRENT_ROLE... Suporte de TI Pleno
-EDUCATION...... Análise e Desenvolvimento de Sistemas
-FOCUS.......... Software Engineering
-ENVIRONMENT.... Web / APIs / Databases
-STATUS......... Building
-UPTIME......... Learning continuously
-
-</td>
 </tr>
 </table>
 
@@ -193,6 +179,8 @@ dados e detalhes internos de infraestrutura não são disponibilizados publicame
 
 <!-- MES -->
 
+<div align="center">
+
 <table>
 <tr>
 <td width="100%" valign="top">
@@ -237,6 +225,8 @@ Sistema desenvolvido para digitalização, rastreabilidade e acompanhamento do f
 <br>
 
 <!-- FINANCE -->
+
+<div align="center">
 
 <table>
 <tr>
@@ -335,6 +325,8 @@ Projetos pessoais e experimentais com código-fonte disponível para análise.
 
 <br>
 
+<div align="center">
+
 <table>
 <tr>
 
@@ -380,12 +372,6 @@ Projeto público desenvolvido para demonstrar conhecimentos em desenvolvimento F
 </h2>
 
 <div align="center">
-
-`> loading career roadmap...`
-
-`[OK] MISSION DATA SYNCHRONIZED`
-
-<br><br>
 
 <table>
 <tr>
@@ -463,15 +449,6 @@ Projeto público desenvolvido para demonstrar conhecimentos em desenvolvimento F
 </h2>
 
 <div align="center">
-
-<!--
-RECOMENDAÇÃO:
-Para máxima estabilidade, gere estes SVGs via GitHub Actions
-e salve no próprio repositório.
-
-Enquanto os assets locais não forem configurados,
-os serviços públicos abaixo mantêm o README funcional.
--->
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=EduReisLuiz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00E5FF"/>
 
