@@ -28,7 +28,7 @@
 <!-- ==================== 02. SYSTEM IDENTITY ==================== -->
 
 <h2 align="center">
-  <code>// ABOUT_ME</code>
+  <code> Sobre mim </code>
 </h2>
 
 <div align="center">
@@ -68,7 +68,7 @@
 <tr>
 <td width="52%" valign="top">
 
-### `> whoami`
+### `> Quem eu sou`
 
 Sou profissional de **Tecnologia da Informação**, atuando com suporte e evoluindo minha carreira para **Desenvolvimento de Software Full Stack**.
 
