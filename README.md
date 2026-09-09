@@ -9,18 +9,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:081A33,65:00D9FF,100:7B2CFF&height=240&section=header&text=LUIZ%20EDUARDO%20REIS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=%3E%20SYSTEM.DEVELOPER%20%2F%2F%20FULL%20STACK%20MODE&descAlignY=57&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=700&pause=300&color=00E5FF&left=true&vleft=true&repeat=false&width=780&lines=%3E+Inicializando+perfil...;%5BOK%5D+Carregando+m%C3%B3dulos+de+desenvolvimento...;%5BOK%5D+Stack+Full+Stack+detectada...;%5BOK%5D+Conex%C3%A3o+estabelecida.;STATUS%3A+ONLINE" alt="Boot sequence"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=8BE9FD&left=true&vleft=true&width=900&lines=Transformando+problemas+reais+em+software.;Construindo+do+frontend+ao+banco+de+dados.;React+%2B+TypeScript+%2B+Node.js+%2B+PostgreSQL.;Suporte+de+TI+%E2%86%92+Engenharia+de+Software.;Always+learning.+Always+building." alt="Typing SVG"/>
-
-<br>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-8A2BE2?style=for-the-badge&labelColor=050816" alt="Full Stack"/>
-
 </div>
 
 ---
