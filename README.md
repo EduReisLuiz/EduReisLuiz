@@ -9,11 +9,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:081A33,65:00D9FF,100:7B2CFF&height=240&section=header&text=LUIZ%20EDUARDO%20REIS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=%3E%20SYSTEM.DEVELOPER%20%2F%2F%20FULL%20STACK%20MODE&descAlignY=57&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=700&pause=300&color=00E5FF&center=true&vCenter=true&repeat=false&width=780&lines=%3E+Inicializando+perfil...;%5BOK%5D+Carregando+m%C3%B3dulos+de+desenvolvimento...;%5BOK%5D+Stack+Full+Stack+detectada...;%5BOK%5D+Conex%C3%A3o+estabelecida.;STATUS%3A+ONLINE" alt="Boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=700&pause=300&color=00E5FF&left=true&vleft=true&repeat=false&width=780&lines=%3E+Inicializando+perfil...;%5BOK%5D+Carregando+m%C3%B3dulos+de+desenvolvimento...;%5BOK%5D+Stack+Full+Stack+detectada...;%5BOK%5D+Conex%C3%A3o+estabelecida.;STATUS%3A+ONLINE" alt="Boot sequence"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=8BE9FD&center=true&vCenter=true&width=900&lines=Transformando+problemas+reais+em+software.;Construindo+do+frontend+ao+banco+de+dados.;React+%2B+TypeScript+%2B+Node.js+%2B+PostgreSQL.;Suporte+de+TI+%E2%86%92+Engenharia+de+Software.;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=8BE9FD&left=true&vleft=true&width=900&lines=Transformando+problemas+reais+em+software.;Construindo+do+frontend+ao+banco+de+dados.;React+%2B+TypeScript+%2B+Node.js+%2B+PostgreSQL.;Suporte+de+TI+%E2%86%92+Engenharia+de+Software.;Always+learning.+Always+building." alt="Typing SVG"/>
 
 <br>
 
@@ -25,197 +25,134 @@
 
 ---
 
-<!-- ==================== 02. SYSTEM IDENTITY ==================== -->
+# Luiz Eduardo Reis
 
-<h2 align="center">
-  <code> Sobre mim </code>
-</h2>
+### Full Stack Developer · IT Support Analyst
 
-<div align="center">
+Desenvolvo aplicações web e soluções voltadas a **problemas reais de negócio**, com experiência prática em desenvolvimento Full Stack, APIs, bancos de dados, autenticação, deploy e ambientes de produção.
 
-<table>
-<tr>
-<td align="right"><code>USER_ID:</code></td>
-<td><b>Luiz Eduardo Reis</b></td>
-</tr>
+Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC** e sigo aprofundando meus conhecimentos em desenvolvimento de software, arquitetura, segurança de aplicações e bancos de dados.
 
-<tr>
-<td align="right"><code>ROLE:</code></td>
-<td><b>Desenvolvedor Full Stack | Suporte de TI Pleno</b></td>
-</tr>
+📍 São Paulo, Brasil
 
-<tr>
-<td align="right"><code>MISSION:</code></td>
-<td><b>Construir soluções simples, eficientes e confiáveis para problemas reais.</b></td>
-</tr>
+---
 
-<tr>
-<td align="right"><code>LOCATION:</code></td>
-<td><b>São Paulo • Brasil</b></td>
-</tr>
-
-<tr>
-<td align="right"><code>SYSTEM_STATUS:</code></td>
-<td><b>ONLINE</b></td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-### `> Quem eu sou`
+## Sobre mim
 
 Sou profissional de **Tecnologia da Informação**, atuando com suporte e evoluindo minha carreira para **Desenvolvimento de Software Full Stack**.
 
-Minha experiência prática vai além dos estudos: desenvolvo soluções voltadas a necessidades reais de negócio, trabalhando com aplicações web, APIs, bancos de dados, autenticação, deploy, versionamento e ambientes de produção.
+Minha experiência prática vai além dos estudos acadêmicos. Tenho desenvolvido soluções utilizadas em cenários reais, trabalhando com:
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC** e continuo aprofundando meus conhecimentos em arquitetura, backend, frontend, banco de dados e engenharia de software.
+- Desenvolvimento de aplicações web
+- APIs REST
+- Autenticação e controle de acesso
+- Bancos de dados relacionais
+- Ambientes de produção e homologação
+- Deploy e infraestrutura
+- Versionamento com Git
+- Integração entre frontend e backend
+- Segurança e organização de aplicações
 
-</td>
-</tr>
-</table>
-
----
-
-<!-- ==================== 03. TECH STACK ==================== -->
-
-<h2 align="center">
-  <code>// TECH_STACK </code>
-</h2>
-
-<div align="center">
-
-### FRONTEND
-
-<img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Vite-050816?style=for-the-badge&logo=vite&logoColor=8A2BE2"/>
-
-### BACKEND
-
-<img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=node.js&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/FastAPI-050816?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Java-050816?style=for-the-badge&logo=openjdk&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/C-050816?style=for-the-badge&logo=c&logoColor=00E5FF"/>
-
-### DATABASE
-
-<img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/SQL-050816?style=for-the-badge&logo=postgresql&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Supabase-050816?style=for-the-badge&logo=supabase&logoColor=00E5FF"/>
-
-### DEPLOY & INFRA
-
-<img src="https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=8A2BE2"/>
-
-</div>
+Meu objetivo é construir soluções **simples, eficientes, confiáveis e orientadas a problemas reais**.
 
 ---
 
-<!-- ========================================================= -->
-<!--              05. PROJECT DATABASE                         -->
-<!-- ========================================================= -->
+## Tech Stack
 
-<h2 align="center">
-  <code> // PROJECT_DATABASE </code>
-</h2>
+### Principais tecnologias
 
-<!-- ========================================================= -->
-<!--              PROFESSIONAL / PRIVATE PROJECTS               -->
-<!-- ========================================================= -->
+`Node.js` · `TypeScript` · `React` · `PostgreSQL` · `SQL` · `Supabase`
 
-<h3 align="center">
-  <code>01 PROFESSIONAL_PROJECTS</code>
-</h3>
+### Frontend
 
-<div align="center">
+`React` · `TypeScript` · `HTML5` · `CSS3` · `Vite`
 
-`ACCESS LEVEL: RESTRICTED`
+### Backend
 
-Projetos desenvolvidos para cenários reais de negócio e ambientes profissionais.
+`Node.js` · `FastAPI` · `Java` · `C`
 
-<sub>
-Por questões de confidencialidade e segurança, código-fonte, credenciais,
-dados e detalhes internos de infraestrutura não são disponibilizados publicamente.
-</sub>
+### Banco de Dados
 
-</div>
+`PostgreSQL` · `SQL` · `Supabase`
 
-<br>
+### Ferramentas, Deploy & Infra
 
-<!-- ================= PROFESSIONAL PROJECT CARDS ================= -->
+`Git` · `GitHub` · `Vercel`
 
-<!-- MES -->
+---
 
-<div align="center">
+# Projetos em Destaque
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### ⚡ `MES // INDUSTRIAL SYSTEM`
+## MES — Sistema Industrial
 
 **Manufacturing Execution System**
 
 Sistema desenvolvido para digitalização, rastreabilidade e acompanhamento do fluxo produtivo em ambiente industrial.
 
-**Principais funcionalidades**
+O projeto nasceu a partir de uma necessidade real de negócio e permite acompanhar peças, processos produtivos, operadores e tempos de fabricação ao longo de diferentes etapas da produção.
 
-- Rastreabilidade de peças via QR Code
+### Principais funcionalidades
+
+- Rastreabilidade de peças por QR Code
 - Controle de início e conclusão de operações
 - Fluxo produtivo entre diferentes setores
-- Coleta e análise de tempos de fabricação
+- Coleta de tempos de fabricação
+- Análise de tempo por peça e processo
 - Acompanhamento de máquinas e processos
 - Histórico de produção
 - Indicadores operacionais
+- Autenticação e controle de usuários
 - Ambientes separados de produção e homologação
 
-**STACK**
+### Tecnologias
 
-`React` `TypeScript` `Node.js` `PostgreSQL` `Supabase` `Vercel`
+`React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Vercel`
 
-<br>
+**Status:** Em produção  
+**Acesso:** Privado
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PRODUCTION-00E5FF?style=for-the-badge&labelColor=050816" alt="In Production"/>
+> Projeto profissional desenvolvido para ambiente empresarial. Código-fonte, dados, credenciais e informações internas de infraestrutura não são disponibilizados publicamente por questões de confidencialidade e segurança.
 
-<img src="https://img.shields.io/badge/ACCESS-PRIVATE-8A2BE2?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Private"/>
+Durante uma apresentação técnica, podem ser discutidos aspectos como arquitetura, decisões técnicas, tecnologias utilizadas, soluções implementadas e fluxos gerais do sistema.
 
-<br><br>
+---
 
-<sub>
-🔒 Sistema profissional em produção — código-fonte privado por confidencialidade empresarial.
-</sub>
+## Gerenciador de Tarefas
 
-</td>
-</tr>
-</table>
+Aplicação Full Stack desenvolvida para gerenciamento e organização de tarefas diárias.
 
-<br>
+O projeto foi criado como parte do meu portfólio público para demonstrar conhecimentos em desenvolvimento frontend, backend, autenticação e banco de dados.
 
-<!-- FINANCE -->
+### Principais funcionalidades
 
-<div align="center">
+- Cadastro de usuários
+- Login e autenticação via JWT
+- Criação de tarefas
+- Título e descrição
+- Definição de prioridade
+- Categorização
+- Definição de prazo
+- Marcação de tarefas como concluídas
+- Reabertura de tarefas
+- Exclusão de tarefas
+- Categorias como Trabalho, Pessoal, Estudos e Saúde
 
-<table>
-<tr>
-<td width="100%" valign="top">
+### Tecnologias
 
-### 💳 `FINANCE // CONTROL SYSTEM`
+`TypeScript` · `React` · `Node.js` · `PostgreSQL`
 
-**Sistema de controle financeiro**
+**Status:** Em desenvolvimento / Portfólio  
+**Acesso:** Público
+
+[Ver repositório](https://github.com/EduReisLuiz/GerenciadorDeTarefas.git)
+
+---
+
+## Sistema de Controle Financeiro
 
 Aplicação desenvolvida para simplificar o acompanhamento e gerenciamento de informações financeiras.
 
-**Principais funcionalidades**
+### Principais funcionalidades
 
 - Controle de entradas e saídas
 - Organização financeira mensal
@@ -224,296 +161,118 @@ Aplicação desenvolvida para simplificar o acompanhamento e gerenciamento de in
 - Interface responsiva
 - Experiência de uso simplificada
 
-**STACK**
+### Tecnologias
 
-`React` `TypeScript` `Web Development`
+`React` · `TypeScript` · `Web Development`
 
-<br>
+**Status:** Concluído  
+**Acesso:** Privado
 
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=for-the-badge&labelColor=050816" alt="Completed"/>
-
-<img src="https://img.shields.io/badge/ACCESS-PRIVATE-8A2BE2?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Private"/>
-
-<br><br>
-
-<sub>
-🔒 Repositório privado.
-</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- PRIVATE ENVIRONMENT -->
-
-<div align="center">
-
-### 🔐 `PRIVATE_ENVIRONMENT`
-
-`> protected professional environment`
-
-<br>
-
-<img src="https://img.shields.io/badge/SOURCE_CODE-PRIVATE-8A2BE2?style=for-the-badge&labelColor=050816" alt="Source Code Private"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DATA-PROTECTED-00E5FF?style=for-the-badge&labelColor=050816" alt="Data Protected"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DOCUMENTATION-INTERNAL-8A2BE2?style=for-the-badge&labelColor=050816" alt="Internal Documentation"/>
-
-<br><br>
-
-**Informações que podem ser apresentadas**
-
-`Arquitetura` • `Decisões técnicas` • `Tecnologias` • `Soluções` • `Fluxos` • `Experiência`
-
-<br>
-
-<sub>
-Detalhes internos, dados, credenciais e código-fonte permanecem protegidos por confidencialidade.
-</sub>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-
-<!--                  OPEN SOURCE PROJECTS                      -->
-
-<!-- ========================================================= -->
-
-<h3 align="center">
-  <code>02 OPEN_SOURCE_LAB</code>
-</h3>
-
-<div align="center">
-
-`ACCESS LEVEL: PUBLIC`
-
-Projetos pessoais e experimentais com código-fonte disponível para análise.
-
-<br>
-
-<img src="https://img.shields.io/badge/SOURCE_CODE-PUBLIC-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="100%" valign="top">
-
-### 🚀 `PROJECT_01 // GERENCIADOR DE TAREFAS`
-
-**Gerenciamento de tarefas diárias**
-
-Projeto público desenvolvido para demonstrar conhecimentos em desenvolvimento Full Stack.
-
-**Principais funcionalidades**
-
-* Cadastro e login de usuários, com autenticação via JWT
-* Criar tarefas com título, descrição, prioridade, categoria e prazo
-* Marcar tarefas como concluídas, reabertura e exclusão
-* Categorização de tarefas (Trabalho, Pessoal, Estudos, Saúde)
-
-**STACK**
-
-`Typescript` `React`
-`Node.js` `PostgreSQL`
-
-<br>
-
-<a href="[LINK_DO_REPOSITORIO]">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+> Repositório privado.
 
 ---
 
-<!-- ==================== 06. CURRENT OBJECTIVES ==================== -->
+# Experiência prática
 
-<h2 align="center">
-  <code>// CURRENT_OBJECTIVES</code>
-</h2>
+Além dos projetos públicos de estudo e portfólio, também desenvolvo soluções aplicadas a cenários profissionais.
 
-<div align="center">
+Essa experiência envolve contato com diferentes partes do ciclo de desenvolvimento de software:
 
-<table>
-<tr>
+**Planejamento → Desenvolvimento → Banco de Dados → Testes → Homologação → Deploy → Produção → Manutenção**
 
-<td width="50%" valign="top">
+Tenho trabalhado especialmente com aplicações que exigem:
 
-### 🎯 `CAREER`
-
-**Suporte de TI**  
-↓  
-**Desenvolvimento de Software**
-
-`STATUS: TRANSITIONING`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📡 `NEXT MISSION`
-
-**Software Developer**
-
-**Full Stack Developer**
-
-`STATUS: TARGET LOCKED`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 `STUDYING`
-
-`Backend Development`  
-`APIs REST`  
-`Arquitetura de Software`  
-`Segurança de Aplicações`  
-`Performance & Bancos de Dados`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ `BUILDING`
-
-`Aplicações Full Stack`  
-`Sistemas para problemas reais`  
-`Projetos de portfólio`  
-`Evolução profissional`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050816"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/MISSION-FULL%20STACK%20DEVELOPER-8A2BE2?style=for-the-badge&labelColor=050816"/>
-
-</div>
+- Integração entre frontend e backend
+- Persistência de dados
+- Autenticação
+- Controle de acesso
+- APIs
+- Banco de dados PostgreSQL
+- Deploy em cloud
+- Configuração de ambientes
+- Versionamento
+- Análise de erros
+- Manutenção evolutiva
+- Segurança de aplicações
+- Performance
 
 ---
 
-<!-- ==================== 07. GITHUB TELEMETRY ==================== -->
+# Atualmente
 
-<h2 align="center">
-  <code> // GITHUB_TELEMETRY </code>
-</h2>
+### Formação
 
-<div align="center">
-
-<br><br>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=EduReisLuiz&theme=transparent&hide_border=true&background=050816&stroke=00E5FF&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=667085"/>
-
-<br><br>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduReisLuiz&bg_color=050816&color=00E5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20LOG"/>
-
-</div>
+**Análise e Desenvolvimento de Sistemas — FATEC**
 
 ---
 
-<!-- ==================== 09. CONTRIBUTION SNAKE ==================== -->
+### Estudando
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/EduReisLuiz/EduReisLuiz/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/EduReisLuiz/EduReisLuiz/gh-pages/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/EduReisLuiz/EduReisLuiz/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
+`Backend Development`
 
-</div>
+`APIs REST`
 
----
+`Arquitetura de Software`
 
-<!-- ==================== 10. NETWORK / SOCIAL ==================== -->
+`Segurança de Aplicações`
 
-<h2 align="center">
-  <code> // NETWORK_CONNECTIONS </code>
-</h2>
+`Performance`
 
-<div align="center">
+`PostgreSQL`
 
-<br><br>
+`Banco de Dados`
 
-<a href="https://www.linkedin.com/in/luizeduardoreisdev">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050816"/>
-</a>
-
-<a href="mailto:luizedureis20@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-8A2BE2?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://github.com/EduReisLuiz">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
-<br>
-
-> Open to software development opportunities.
-
-</div>
+`Engenharia de Software`
 
 ---
 
-<!-- ==================== 11. SYSTEM QUOTE ==================== -->
+### Desenvolvendo
 
-<div align="center">
-
-### `> developer.log`
-
-*"Software não é apenas código funcionando.*
-*É resolver um problema da forma mais simples, segura e eficiente possível."*
-
-<br>
-
-`[ CONTINUE BUILDING ]`
-
-`[ CONTINUE LEARNING ]`
-
-`[ NEVER STOP IMPROVING ]`
-
-</div>
+- Aplicações Full Stack
+- APIs
+- Sistemas voltados a problemas reais
+- Projetos de portfólio
+- Soluções integradas com banco de dados
+- Evolução profissional em desenvolvimento de software
 
 ---
+
+# Objetivo profissional
+
+Minha experiência profissional começou principalmente em **Suporte de TI**, área na qual desenvolvi uma base sólida de resolução de problemas, atendimento técnico e compreensão de ambientes corporativos.
+
+Atualmente direciono minha evolução profissional para:
+
+**Software Development**
+
+**Full Stack Development**
+
+com interesse especial em:
+
+`Backend` · `Node.js` · `TypeScript` · `PostgreSQL` · `APIs REST`
+
+Busco oportunidades nas quais possa continuar evoluindo tecnicamente e contribuir com desenvolvimento de sistemas utilizados em cenários reais.
+
+---
+
+# Contato
+
+**LinkedIn**  
+[linkedin.com/in/luizeduardoreisdev](https://www.linkedin.com/in/luizeduardoreisdev)
+
+**GitHub**  
+[github.com/EduReisLuiz](https://github.com/EduReisLuiz)
+
+**E-mail**  
+[luizedureis20@gmail.com](mailto:luizedureis20@gmail.com)
+
+---
+
+Open to software development opportunities.
 
 <!-- ==================== 12. FOOTER ==================== -->
 
-<div align="center">
+<div align="left">
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=EduReisLuiz&label=PROFILE%20SCANS&color=00b8d9&style=for-the-badge" alt="Profile views"/>
