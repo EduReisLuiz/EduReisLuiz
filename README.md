@@ -11,280 +11,60 @@
 
 </div>
 
----
-
 # Luiz Eduardo Reis
 
-### Full Stack Developer · IT Support Analyst
+**Software Developer · Node.js · TypeScript · PostgreSQL**
 
-Desenvolvo aplicações web e soluções voltadas a **problemas reais de negócio**, com experiência prática em desenvolvimento Full Stack, APIs, bancos de dados, autenticação, deploy e ambientes de produção.
+Desenvolvedor de software e profissional de Tecnologia da Informação, graduando em **Análise e Desenvolvimento de Sistemas pela FATEC**.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC** e sigo aprofundando meus conhecimentos em desenvolvimento de software, arquitetura, segurança de aplicações e bancos de dados.
+Tenho experiência prática no desenvolvimento de aplicações web, APIs REST, bancos de dados relacionais, autenticação, integração entre frontend e backend e sistemas aplicados a cenários reais de negócio.
 
-📍 São Paulo, Brasil
-
----
-
-## Sobre mim
-
-Sou profissional de **Tecnologia da Informação**, atuando com suporte e evoluindo minha carreira para **Desenvolvimento de Software Full Stack**.
-
-Minha experiência prática vai além dos estudos acadêmicos. Tenho desenvolvido soluções utilizadas em cenários reais, trabalhando com:
-
-- Desenvolvimento de aplicações web
-- APIs REST
-- Autenticação e controle de acesso
-- Bancos de dados relacionais
-- Ambientes de produção e homologação
-- Deploy e infraestrutura
-- Versionamento com Git
-- Integração entre frontend e backend
-- Segurança e organização de aplicações
-
-Meu objetivo é construir soluções **simples, eficientes, confiáveis e orientadas a problemas reais**.
+Atualmente direciono minha evolução profissional principalmente para **Backend Development**, com foco em **Node.js, TypeScript, PostgreSQL e APIs REST**.
 
 ---
 
 ## Tech Stack
 
-### Principais tecnologias
+**Main Stack**
 
-`Node.js` · `TypeScript` · `React` · `PostgreSQL` · `SQL` · `Supabase`
+`Node.js` · `TypeScript` · `PostgreSQL` · `SQL`
 
-### Frontend
+**Also working with**
 
-`React` · `TypeScript` · `HTML5` · `CSS3` · `Vite`
-
-### Backend
-
-`Node.js` · `FastAPI` · `Java` · `C`
-
-### Banco de Dados
-
-`PostgreSQL` · `SQL` · `Supabase`
-
-### Ferramentas, Deploy & Infra
-
-`Git` · `GitHub` · `Vercel`
+`React` · `Git` · `REST APIs` · `Supabase`
 
 ---
 
-# Projetos em Destaque
+## Selected Work
 
-## MES — Sistema Industrial
+### MES > Industrial Manufacturing System
 
-**Manufacturing Execution System**
+Sistema desenvolvido para um ambiente industrial, voltado à digitalização, rastreabilidade e acompanhamento de processos produtivos.
 
-Sistema desenvolvido para digitalização, rastreabilidade e acompanhamento do fluxo produtivo em ambiente industrial.
+A solução envolve rastreabilidade de peças por QR Code, controle de operações, coleta de tempos de fabricação, autenticação, banco de dados PostgreSQL e ambientes separados de produção e homologação.
 
-O projeto nasceu a partir de uma necessidade real de negócio e permite acompanhar peças, processos produtivos, operadores e tempos de fabricação ao longo de diferentes etapas da produção.
+**Stack:** `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase`
 
-### Principais funcionalidades
+> Projeto profissional privado. Código-fonte, dados e informações internas não são disponibilizados publicamente por questões de confidencialidade e segurança.
 
-- Rastreabilidade de peças por QR Code
-- Controle de início e conclusão de operações
-- Fluxo produtivo entre diferentes setores
-- Coleta de tempos de fabricação
-- Análise de tempo por peça e processo
-- Acompanhamento de máquinas e processos
-- Histórico de produção
-- Indicadores operacionais
-- Autenticação e controle de usuários
-- Ambientes separados de produção e homologação
+### Task Manager
 
-### Tecnologias
+Aplicação Full Stack desenvolvida para gerenciamento de tarefas, com autenticação, controle de usuários, prioridades, categorias e persistência de dados.
 
-`React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Vercel`
+**Stack:** `React` · `TypeScript` · `Node.js` · `PostgreSQL`
 
-**Status:** Em produção  
-**Acesso:** Privado
-
-> Projeto profissional desenvolvido para ambiente empresarial. Código-fonte, dados, credenciais e informações internas de infraestrutura não são disponibilizados publicamente por questões de confidencialidade e segurança.
-
-Durante uma apresentação técnica, podem ser discutidos aspectos como arquitetura, decisões técnicas, tecnologias utilizadas, soluções implementadas e fluxos gerais do sistema.
+[View repository](https://github.com/EduReisLuiz/GerenciadorDeTarefas)
 
 ---
 
-## Gerenciador de Tarefas
-
-Aplicação Full Stack desenvolvida para gerenciamento e organização de tarefas diárias.
-
-O projeto foi criado como parte do meu portfólio público para demonstrar conhecimentos em desenvolvimento frontend, backend, autenticação e banco de dados.
-
-### Principais funcionalidades
-
-- Cadastro de usuários
-- Login e autenticação via JWT
-- Criação de tarefas
-- Título e descrição
-- Definição de prioridade
-- Categorização
-- Definição de prazo
-- Marcação de tarefas como concluídas
-- Reabertura de tarefas
-- Exclusão de tarefas
-- Categorias como Trabalho, Pessoal, Estudos e Saúde
-
-### Tecnologias
-
-`TypeScript` · `React` · `Node.js` · `PostgreSQL`
-
-**Status:** Em desenvolvimento / Portfólio  
-**Acesso:** Público
-
-[Ver repositório](https://github.com/EduReisLuiz/GerenciadorDeTarefas.git)
-
----
-
-## Sistema de Controle Financeiro
-
-Aplicação desenvolvida para simplificar o acompanhamento e gerenciamento de informações financeiras.
-
-### Principais funcionalidades
-
-- Controle de entradas e saídas
-- Organização financeira mensal
-- Gerenciamento de registros
-- Persistência de dados
-- Interface responsiva
-- Experiência de uso simplificada
-
-### Tecnologias
-
-`React` · `TypeScript` · `Web Development`
-
-**Status:** Concluído  
-**Acesso:** Privado
-
-> Repositório privado.
-
----
-
-# Experiência prática
-
-Além dos projetos públicos de estudo e portfólio, também desenvolvo soluções aplicadas a cenários profissionais.
-
-Essa experiência envolve contato com diferentes partes do ciclo de desenvolvimento de software:
-
-**Planejamento → Desenvolvimento → Banco de Dados → Testes → Homologação → Deploy → Produção → Manutenção**
-
-Tenho trabalhado especialmente com aplicações que exigem:
-
-- Integração entre frontend e backend
-- Persistência de dados
-- Autenticação
-- Controle de acesso
-- APIs
-- Banco de dados PostgreSQL
-- Deploy em cloud
-- Configuração de ambientes
-- Versionamento
-- Análise de erros
-- Manutenção evolutiva
-- Segurança de aplicações
-- Performance
-
----
-
-# Atualmente
-
-### Formação
+## Education
 
 **Análise e Desenvolvimento de Sistemas — FATEC**
 
 ---
 
-### Estudando
+## Contact
 
-`Backend Development`
-
-`APIs REST`
-
-`Arquitetura de Software`
-
-`Segurança de Aplicações`
-
-`Performance`
-
-`PostgreSQL`
-
-`Banco de Dados`
-
-`Engenharia de Software`
-
----
-
-### Desenvolvendo
-
-- Aplicações Full Stack
-- APIs
-- Sistemas voltados a problemas reais
-- Projetos de portfólio
-- Soluções integradas com banco de dados
-- Evolução profissional em desenvolvimento de software
-
----
-
-# Objetivo profissional
-
-Minha experiência profissional começou principalmente em **Suporte de TI**, área na qual desenvolvi uma base sólida de resolução de problemas, atendimento técnico e compreensão de ambientes corporativos.
-
-Atualmente direciono minha evolução profissional para:
-
-**Software Development**
-
-**Full Stack Development**
-
-com interesse especial em:
-
-`Backend` · `Node.js` · `TypeScript` · `PostgreSQL` · `APIs REST`
-
-Busco oportunidades nas quais possa continuar evoluindo tecnicamente e contribuir com desenvolvimento de sistemas utilizados em cenários reais.
-
----
-
-# Contato
-
-**LinkedIn**  
-[linkedin.com/in/luizeduardoreisdev](https://www.linkedin.com/in/luizeduardoreisdev)
-
-**GitHub**  
-[github.com/EduReisLuiz](https://github.com/EduReisLuiz)
-
-**E-mail**  
-[luizedureis20@gmail.com](mailto:luizedureis20@gmail.com)
-
----
+[LinkedIn](https://www.linkedin.com/in/luizeduardoreisdev) · [GitHub](https://github.com/EduReisLuiz) · [Email](mailto:luizedureis20@gmail.com)
 
 Open to software development opportunities.
-
-<!-- ==================== 12. FOOTER ==================== -->
-
-<div align="left">
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=EduReisLuiz&label=PROFILE%20SCANS&color=00b8d9&style=for-the-badge" alt="Profile views"/>
-
-<br>
-
-<a><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,40:00D9FF,75:081A33,100:050816&height=150&section=footer"/></a>
-
-<sub>
-
-`LUIZ.DEV // SYSTEM PROFILE`
-
-`FULL STACK DEVELOPMENT • SOFTWARE ENGINEERING • TECHNOLOGY`
-
-<br>
-
-**STATUS: ONLINE // BUILD: 2026**
-
-</sub>
-
-</div>
-
-<!-- ========================================================= -->
-
-<!--                       END OF SYSTEM                        -->
-
-<!-- ========================================================= -->
